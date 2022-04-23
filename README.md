@@ -45,6 +45,8 @@ setelah itu, lakukan git branch dengan nama branch default milik github kalian
 git branch -M nama-branch-kalian
 ```
 
+default branch github adalah : **master**
+
 lalu, lakukan remote dengan url repo project kalian
 
 ```bash
@@ -74,8 +76,15 @@ kalian akan disuruh menulis note / judul access token milik kalian sesuai keingi
 
 jika kalian menemukan checkbox bertuliskan **repo**, kalian bisa centang checkbox tersebut dan kalian bisa menentukan waktu / expired token milik kalian.
 
-setelah semua itu selesai, kalian akan mendapatkan **personal access token** milik kalian sendiri dan disarankan dari pihak **github** untuk menyalin kode tersebut. karena, kalian hanya bisa melihat code itu satu kali di **github**.
+setelah semua itu selesai, kalian akan mendapatkan **personal access token** milik kalian sendiri dan disarankan dari pihak **github** untuk menyalin token tersebut. karena, kalian hanya bisa melihat token itu satu kali di **github**.
 
-kalian bisa menyimpan kode tersebut ke aplikasi catatan dengan diberikan sebuah password yang aman sebelum mengakses atau melihat catatan itu lagi.
+kalian bisa menyimpan token tersebut ke aplikasi catatan dengan diberikan sebuah password yang aman sebelum menggunakan atau melihat token itu lagi.
 
-tinggal kalian **paste** kode tersebut di aplikasi termux. setelah itu files kalian akan sukses terupload
+tinggal kalian **paste** token tersebut di aplikasi termux. setelah itu files kalian akan sukses terupload
+
+semoga kalian paham dengan penjelasan saya ini. jika kalian masih kebingungan dengan penjelasan saya, silahkan kirimkan keluhan anda ke platform saya di bawah ini
+
+* intagram : **candradwicahyo18**
+* email : **candradwicahyo18@gmail.com**
+
+> ditulis oleh **candra dwi cahyo**
