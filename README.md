@@ -19,7 +19,7 @@ setelah pemasangan selesai. lakukan perintah dibawah ini
 git init
 git add nama-file (untuk mengupload 1 file)
 git add . (untuk mengupload semua file)
-git commut -m "isi sesuka kalian"
+git commit -m "isi sesuka kalian"
 git branch -M branch-github-kalian (default: master atau main)
 git remote add origin https://github.com/candradwicahyo/project-kalian.git (bila menggunakan metode http / https)
 git push -u origin branch-github-kalian (default: master atau main)
